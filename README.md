@@ -1,6 +1,8 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP3 : HALF_ADDER_SUBTRACTOR
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+## Implementation-of-Half-Adder-and-Half Subtractor-circuit
+## NAME: AASHIKA JAIN .G
+## REF NO. : 24900589
 
 **AIM:**
 
@@ -34,6 +36,10 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![half add TT](https://github.com/user-attachments/assets/5045f085-81cf-42a9-b3c5-68fe1fd8f0d2)
+![half sub TT](https://github.com/user-attachments/assets/ba614b84-7db6-4a08-96a4-f6d9a70c6d90)
+
+
 
 **Procedure**
 
@@ -50,12 +56,23 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+/* Program to design a half adder and half subtractor circuit and verify its truth table in quartus using Verilog programming.
+![pro half add](https://github.com/user-attachments/assets/a07339c3-f2ff-4ce1-8346-74bcb8e57929)
+![pro half sub](https://github.com/user-attachments/assets/abea49d5-5dba-4929-a598-ec8c8fa7ec9e)
 
-Developed by: RegisterNumber:*/
+
 
 **RTL Schematic**
+![rtl of half add](https://github.com/user-attachments/assets/c12cac68-2f86-4e9f-b077-d57226c33d4d)
+![rtl of half sub](https://github.com/user-attachments/assets/172a73aa-12d6-4069-acf0-6754c3112489)
+
+
 
 **Output/TIMING Waveform**
+![output half add](https://github.com/user-attachments/assets/761ecb67-2ef2-46a7-adda-f821e1d43026)
+![output half sub](https://github.com/user-attachments/assets/e78dc767-e0a7-4c10-b880-4f1c5e911f86)
+
+
 
 **Result:**
+Thus half adder and half subtractor is implemented.
